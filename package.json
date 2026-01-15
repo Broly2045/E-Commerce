@@ -1,0 +1,21 @@
+{
+  "name": "e-comm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@vercel/kv": "^3.0.0",
+    "cookie-session": "^2.1.1",
+    "express": "^5.1.0",
+    "express-validator": "^7.3.1",
+    "multer": "^2.0.2",
+    "nodemon": "^3.1.11"
+  }
+}
